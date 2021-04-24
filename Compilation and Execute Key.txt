@@ -1,0 +1,2 @@
+First Command:    kotlinc  filename.kt    -include-runtime   -d  filename.jar
+Second Command:  java   -jar   filename.jar
